@@ -1,5 +1,7 @@
 # README
 
+This app shows spread for Binance BTC/USDT
+
 ## Project Setup
 
 ```sh
